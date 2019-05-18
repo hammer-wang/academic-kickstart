@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical and Computer Engineering: Machine Learning and Computer Vision track
+  - course: PhD in Electrical and Computer Engineering (Machine Learning and Computer Vision track)
     institution: University of Michigan
     year: 2021
   - course: BEng in Electrical Engineering
