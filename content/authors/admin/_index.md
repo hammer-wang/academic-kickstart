@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering (Machine Learning and Computer Vision track)
     institution: University of Michigan, Ann Arbor, US
-    year: 2021
+    year: 2021 (expected)
   - course: BEng in Electrical Engineering
     institution: Tianjin University and Nankai University, China
     year: 2015
