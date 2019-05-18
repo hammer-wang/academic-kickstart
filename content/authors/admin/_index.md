@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Haozhu Wang is a fourth year Ph.D. student at University of Michigan. His research interests include deep learning, reinforcement learning and their applications in healthcare. He is also interested in novel optical and quantum devices for efficient training and inference for machine learning algorithms.
+Haozhu Wang is a fourth year Ph.D. student at University of Michigan. His research interests include deep learning, reinforcement learning and their applications in healthcare. He is also interested in novel optical and quantum devices for efficient training and inference of machine learning algorithms.
 
-In his spare time, he enjoys liftying weights, playing basketball, and reading books. His favorite book is the The Three-Body Problem by Cixin Liu.
+In his spare time, he enjoys lifting weights, playing basketball, and reading books. His favorite book is the The Three-Body Problem by Cixin Liu.
