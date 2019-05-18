@@ -52,9 +52,9 @@ social:
   link: https://github.com/hammer-wang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +68,4 @@ user_groups:
 
 Haozhu Wang [HOW-DREW WANG] is a fourth year Ph.D. student at University of Michigan. His research interests include deep learning, reinforcement learning and their applications in healthcare. He is also interested in novel optical and quantum devices for efficient training and inference of machine learning algorithms.
 
-In his spare time, he enjoys lifting weights, playing basketball, and reading books. His favorite book is the The Three-Body Problem by Cixin Liu.
+In his spare time, he enjoys lifting weights, playing basketball, and reading books. His favorite book is The Three-Body Problem by Cixin Liu.
