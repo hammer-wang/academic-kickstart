@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Electrical and Computer Engineering (Machine Learning and Computer Vision track)
-    institution: University of Michigan
+    institution: University of Michigan, Ann Arbor, US
     year: 2021
   - course: BEng in Electrical Engineering
     institution: Tianjin University and Nankai University, China
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hzwang@umich.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/whz2008123
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8LsFD80AAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hammer-wang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +68,4 @@ user_groups:
 
 Haozhu Wang is a fourth year Ph.D. student at University of Michigan. His research interests include deep learning, reinforcement learning and their applications in healthcare. He is also interested in novel optical and quantum devices for efficient training and inference for machine learning algorithms.
 
-In his spare time, he enjoys basketball, weight lifting, and readings. His favorite book is the The Three-Body Problem by Cixin Liu.
+In his spare time, he enjoys liftying weights, playing basketball, and reading books. His favorite book is the The Three-Body Problem by Cixin Liu.
