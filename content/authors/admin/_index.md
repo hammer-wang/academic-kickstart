@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haozhu Wang is a fourth year Ph.D. student at University of Michigan. His research interests include deep learning, reinforcement learning and their applications in healthcare. He is also interested in novel optical and quantum devices for efficient training and inference for machine learning algorithms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his spare time, he enjoys basketball, weight lifting, and readings. His favorite book is the The Three-Body Problem by Cixin Liu.
