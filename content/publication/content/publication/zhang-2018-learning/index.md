@@ -5,7 +5,7 @@ authors = ["Dejiao Zhang*", "Haozhu Wang*", "Mario Figueiredo", "Laura Balzano",
 publication_types = ["1"]
 abstract = ""
 - Source Themes
-featured = true
+featured = false
 publication = "International Conference on Learning Representations"
 
 # Featured image
