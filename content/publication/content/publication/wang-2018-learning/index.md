@@ -8,6 +8,7 @@ featured = false
 publication = "*Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*"
 
 image:
+  caption: "Penalty contour"
   focal_point: ""
   preview_only: false
 +++
